@@ -1,3 +1,5 @@
+<p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
+
 <p align="center"><img src="assets/hero.png" alt="EU Funds Chatbot" width="700"/></p>
 
 <h1 align="center">EU Funds Chatbot</h1>
