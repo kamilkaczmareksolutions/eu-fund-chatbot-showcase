@@ -1,11 +1,6 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
-<p align="center"><img src="docs/demo.gif" alt="EU Funds Chatbot - demo" width="700"/></p>
-<p align="center"><sub>Screenshot walkthrough (code is private)</sub></p>
-
-<!-- Previous hero (backup, static):
 <p align="center"><img src="assets/hero.png" alt="EU Funds Chatbot" width="700"/></p>
--->
 
 <h1 align="center">EU Funds Chatbot</h1>
 
